@@ -4,4 +4,4 @@ Here's the project I've created for my portfolio for my future company applicati
 1. The Coffee (Cafe)
    <img src="./portfolioPreview.gif">
 
-2. Coming Soon
+2. Coming Soon...
